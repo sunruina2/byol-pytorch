@@ -108,8 +108,8 @@
     </configuration>
     <list>
       <item itemvalue="Python.train" />
-      <item itemvalue="Python.ttt" />
       <item itemvalue="Python.train_video" />
+      <item itemvalue="Python.ttt" />
     </list>
     <recent_temporary>
       <list>

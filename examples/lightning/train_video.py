@@ -30,8 +30,8 @@ UNK, PAD = '<UNK>', '<PAD>'  # 未知字，padding符号
 
 class SetConfig():
     def __init__(self):
-        self.test_flag = 1
-        self.if_make_lmdb_vocab = 1
+        self.test_flag = 0
+        self.if_make_lmdb_vocab = 0
         self.pro_path = '/Users/sunruina/Documents/py_project/oversea_low_detection'
         if self.test_flag == 0:
             self.pro_path = '/home/sunruina/oversea_low_detection'
