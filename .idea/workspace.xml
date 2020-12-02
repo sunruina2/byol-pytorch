@@ -9,10 +9,18 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1krYOgbUXpxIGQbEdJR5ca3lqCm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -21,6 +29,95 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/examples/lightning/train_data_process" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/examples/lightning" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.train_video">
+    <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="byol-pytorch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="OMP_NUM_THREADS" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/examples/lightning" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/examples/lightning/train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train_video" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="byol-pytorch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="OMP_NUM_THREADS" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/examples/lightning" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/examples/lightning/train_video.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ttt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="byol-pytorch" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ttt.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.train" />
+      <item itemvalue="Python.ttt" />
+      <item itemvalue="Python.train_video" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.train_video" />
+        <item itemvalue="Python.train" />
+        <item itemvalue="Python.ttt" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -34,5 +131,75 @@
       <updated>1606460146960</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="232" y="143" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606917582600">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="232" y="143" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.960@0.0.1536.960" timestamp="1606917582600" />
+    <state x="390" y="85" key="CommitChangelistDialog2" timestamp="1606479515345">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="390" y="85" key="CommitChangelistDialog2/0.0.1536.960@0.0.1536.960" timestamp="1606479515345" />
+    <state x="522" y="251" key="EnvironmentVariablesDialog" timestamp="1606917580298">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="522" y="251" key="EnvironmentVariablesDialog/0.0.1536.960@0.0.1536.960" timestamp="1606917580298" />
+    <state width="1515" height="265" key="GridCell.Tab.0.bottom" timestamp="1606921546426">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1515" height="265" key="GridCell.Tab.0.bottom/0.0.1536.960@0.0.1536.960" timestamp="1606921546426" />
+    <state width="1515" height="265" key="GridCell.Tab.0.bottom/0.23.1536.883@0.23.1536.883" timestamp="1606702924710" />
+    <state width="1515" height="265" key="GridCell.Tab.0.center" timestamp="1606921546425">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1515" height="265" key="GridCell.Tab.0.center/0.0.1536.960@0.0.1536.960" timestamp="1606921546425" />
+    <state width="1515" height="265" key="GridCell.Tab.0.center/0.23.1536.883@0.23.1536.883" timestamp="1606702924708" />
+    <state width="1515" height="265" key="GridCell.Tab.0.left" timestamp="1606921546424">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1515" height="265" key="GridCell.Tab.0.left/0.0.1536.960@0.0.1536.960" timestamp="1606921546424" />
+    <state width="1515" height="265" key="GridCell.Tab.0.left/0.23.1536.883@0.23.1536.883" timestamp="1606702924707" />
+    <state width="1515" height="265" key="GridCell.Tab.0.right" timestamp="1606921546425">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1515" height="265" key="GridCell.Tab.0.right/0.0.1536.960@0.0.1536.960" timestamp="1606921546425" />
+    <state width="1515" height="265" key="GridCell.Tab.0.right/0.23.1536.883@0.23.1536.883" timestamp="1606702924709" />
+    <state width="1515" height="327" key="GridCell.Tab.1.bottom" timestamp="1606918002968">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1515" height="327" key="GridCell.Tab.1.bottom/0.0.1536.960@0.0.1536.960" timestamp="1606918002968" />
+    <state width="1515" height="327" key="GridCell.Tab.1.center" timestamp="1606918002967">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1515" height="327" key="GridCell.Tab.1.center/0.0.1536.960@0.0.1536.960" timestamp="1606918002967" />
+    <state width="1515" height="327" key="GridCell.Tab.1.left" timestamp="1606918002966">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1515" height="327" key="GridCell.Tab.1.left/0.0.1536.960@0.0.1536.960" timestamp="1606918002966" />
+    <state width="1515" height="327" key="GridCell.Tab.1.right" timestamp="1606918002968">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state width="1515" height="327" key="GridCell.Tab.1.right/0.0.1536.960@0.0.1536.960" timestamp="1606918002968" />
+    <state x="269" y="119" key="SettingsEditor" timestamp="1606469330669">
+      <screen x="0" y="0" width="1536" height="960" />
+    </state>
+    <state x="269" y="119" key="SettingsEditor/0.0.1536.960@0.0.1536.960" timestamp="1606469330669" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/examples/lightning/train.py</url>
+          <line>91</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="X_frames.shape" language="Python" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
