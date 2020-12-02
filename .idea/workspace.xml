@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf07ec7c-da01-401a-a0bd-d84e4721032c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/examples/lightning/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/examples/lightning/train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/byol_pytorch/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/byol_pytorch/byol_pytorch.py" beforeDir="false" afterPath="$PROJECT_DIR$/examples/lightning/byol_pytorch.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
