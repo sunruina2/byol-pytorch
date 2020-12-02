@@ -17,19 +17,19 @@ resnet = models.resnet50(pretrained=True)
 
 # arguments
 
-parser = argparse.ArgumentParser(description='byol-lightning-test')
+# parser = argparse.ArgumentParser(description='byol-lightning-test')
+#
+# parser.add_argument('--image_folder', type=str, required=True,
+#                     help='path to your folder of images for self-supervised learning')
 
-parser.add_argument('--image_folder', type=str, required=True,
-                    help='path to your folder of images for self-supervised learning')
-
-args = parser.parse_args()
+# args = parser.parse_args()
 
 # constants
 
 BATCH_SIZE = 32
 EPOCHS = 1000
 LR = 3e-4
-NUM_GPUS = 2
+NUM_GPUS = 0
 IMAGE_SIZE = 256
 IMAGE_EXTS = ['.jpg', '.png', '.jpeg']
 NUM_WORKERS = multiprocessing.cpu_count()
@@ -95,7 +95,8 @@ class ImagesDataset(Dataset):
 # main
 
 if __name__ == '__main__':
-    ds = ImagesDataset(args.image_folder, IMAGE_SIZE)
+    image_folder = '/Users/sunruina/Documents/py_project/tag-framework-system/tag_framework/dataset/video_extractor_api/demos/150000118089517_10_230400'
+    ds = ImagesDataset(image_folder, IMAGE_SIZE)
     train_loader = DataLoader(ds, batch_size=BATCH_SIZE, num_workers=NUM_WORKERS, shuffle=True)
 
     model = SelfSupervisedLearner(
@@ -114,4 +115,3 @@ if __name__ == '__main__':
     )
 
     trainer.fit(model, train_loader)
-    # 
