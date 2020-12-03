@@ -2,9 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf07ec7c-da01-401a-a0bd-d84e4721032c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/examples/lightning/demos_pics/frame000000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/lightning/demos_pics/frame000001.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/lightning/demos_pics/frame000002.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/lightning/demos_pics/frame000003.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/lightning/demos_pics/frame000004.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/lightning/demos_pics/frame000005.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/lightning/demos_pics/frame000006.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/lightning/demos_pics/frame000007.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/lightning/demos_pics/frame000008.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/lightning/demos_pics/frame000009.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/lightning/demos_pics/frame000010.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/lightning/train_video.py" beforeDir="false" afterPath="$PROJECT_DIR$/examples/lightning/train_video.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/lightning/lightning_logs/version_0/events.out.tfevents.1606993864.sunruinadeMacBook-Pro.local.16132.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/lightning/lightning_logs/version_0/hparams.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/lightning/lightning_logs/version_1/events.out.tfevents.1607003733.sunruinadeMacBook-Pro.local.16499.0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/lightning/lightning_logs/version_1/hparams.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/lightning/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/examples/lightning/train.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,7 +44,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/examples/lightning/train_data_process/data_train" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/examples/lightning" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -39,12 +53,12 @@
       <recent name="$PROJECT_DIR$/examples/lightning" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/examples/lightning" />
       <recent name="$PROJECT_DIR$/examples/lightning/train_data_process/data_train" />
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/examples/lightning" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.train_video">
+  <component name="RunManager" selected="Python.train">
     <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="byol-pytorch" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -117,8 +131,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.train_video" />
         <item itemvalue="Python.train" />
+        <item itemvalue="Python.train_video" />
         <item itemvalue="Python.ttt" />
       </list>
     </recent_temporary>
@@ -149,25 +163,25 @@
       <screen x="0" y="0" width="1536" height="960" />
     </state>
     <state x="522" y="251" key="EnvironmentVariablesDialog/0.0.1536.960@0.0.1536.960" timestamp="1606917580298" />
-    <state width="1515" height="265" key="GridCell.Tab.0.bottom" timestamp="1607003723022">
+    <state width="1515" height="265" key="GridCell.Tab.0.bottom" timestamp="1607005621465">
       <screen x="0" y="0" width="1536" height="960" />
     </state>
-    <state width="1515" height="265" key="GridCell.Tab.0.bottom/0.0.1536.960@0.0.1536.960" timestamp="1607003723022" />
+    <state width="1515" height="265" key="GridCell.Tab.0.bottom/0.0.1536.960@0.0.1536.960" timestamp="1607005621465" />
     <state width="1515" height="265" key="GridCell.Tab.0.bottom/0.23.1536.883@0.23.1536.883" timestamp="1606702924710" />
-    <state width="1515" height="265" key="GridCell.Tab.0.center" timestamp="1607003723021">
+    <state width="1515" height="265" key="GridCell.Tab.0.center" timestamp="1607005621463">
       <screen x="0" y="0" width="1536" height="960" />
     </state>
-    <state width="1515" height="265" key="GridCell.Tab.0.center/0.0.1536.960@0.0.1536.960" timestamp="1607003723021" />
+    <state width="1515" height="265" key="GridCell.Tab.0.center/0.0.1536.960@0.0.1536.960" timestamp="1607005621463" />
     <state width="1515" height="265" key="GridCell.Tab.0.center/0.23.1536.883@0.23.1536.883" timestamp="1606702924708" />
-    <state width="1515" height="265" key="GridCell.Tab.0.left" timestamp="1607003723020">
+    <state width="1515" height="265" key="GridCell.Tab.0.left" timestamp="1607005621463">
       <screen x="0" y="0" width="1536" height="960" />
     </state>
-    <state width="1515" height="265" key="GridCell.Tab.0.left/0.0.1536.960@0.0.1536.960" timestamp="1607003723020" />
+    <state width="1515" height="265" key="GridCell.Tab.0.left/0.0.1536.960@0.0.1536.960" timestamp="1607005621463" />
     <state width="1515" height="265" key="GridCell.Tab.0.left/0.23.1536.883@0.23.1536.883" timestamp="1606702924707" />
-    <state width="1515" height="265" key="GridCell.Tab.0.right" timestamp="1607003723021">
+    <state width="1515" height="265" key="GridCell.Tab.0.right" timestamp="1607005621464">
       <screen x="0" y="0" width="1536" height="960" />
     </state>
-    <state width="1515" height="265" key="GridCell.Tab.0.right/0.0.1536.960@0.0.1536.960" timestamp="1607003723021" />
+    <state width="1515" height="265" key="GridCell.Tab.0.right/0.0.1536.960@0.0.1536.960" timestamp="1607005621464" />
     <state width="1515" height="265" key="GridCell.Tab.0.right/0.23.1536.883@0.23.1536.883" timestamp="1606702924709" />
     <state width="1515" height="327" key="GridCell.Tab.1.bottom" timestamp="1606918002968">
       <screen x="0" y="0" width="1536" height="960" />
@@ -191,15 +205,6 @@
     <state x="269" y="119" key="SettingsEditor/0.0.1536.960@0.0.1536.960" timestamp="1606469330669" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/examples/lightning/train.py</url>
-          <line>91</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
     <watches-manager>
       <configuration name="PythonConfigurationType">
         <watch expression="X_frames.shape" language="Python" />

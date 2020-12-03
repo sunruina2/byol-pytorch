@@ -95,7 +95,7 @@ class ImagesDataset(Dataset):
 # main
 
 if __name__ == '__main__':
-    image_folder = '/Users/sunruina/Documents/py_project/tag-framework-system/tag_framework/dataset/video_extractor_api/demos/150000118089517_10_230400'
+    image_folder = 'demos_pics'
     ds = ImagesDataset(image_folder, IMAGE_SIZE)
     train_loader = DataLoader(ds, batch_size=BATCH_SIZE, num_workers=NUM_WORKERS, shuffle=True)
 
