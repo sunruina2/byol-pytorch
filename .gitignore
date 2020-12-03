@@ -127,7 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-
+**/train_data_process
 **/train_data_process/data_train/20200419
 **/train_data_process/data_train/20201008
 **/train_data_process/train_info_all.csv

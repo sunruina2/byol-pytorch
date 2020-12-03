@@ -30,7 +30,7 @@ UNK, PAD = '<UNK>', '<PAD>'  # 未知字，padding符号
 
 class SetConfig():
     def __init__(self):
-        self.test_flag = 1
+        self.test_flag = 0
         self.if_make_lmdb_vocab = 0
         self.pro_path = '/Users/sunruina/Documents/py_project/oversea_low_detection'
         if self.test_flag == 0:
@@ -38,6 +38,7 @@ class SetConfig():
         self.task_name = 'BYOL_vfirstimg'
         self.run_start = time.strftime('%Y_%m_%d_%H_%M_%S', time.localtime(time.time()))
         self.gpu_N = torch.cuda.device_count()
+        self.gpu_N = 0
         if self.if_make_lmdb_vocab == 1:
             self.info_v_tm = self.run_start
         else:
