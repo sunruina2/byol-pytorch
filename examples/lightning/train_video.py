@@ -30,8 +30,8 @@ UNK, PAD = '<UNK>', '<PAD>'  # 未知字，padding符号
 
 class SetConfig():
     def __init__(self):
-        self.test_flag = 0
-        self.if_make_lmdb_vocab = 1
+        self.test_flag = 1
+        self.if_make_lmdb_vocab = 0
         self.pro_path = '/Users/sunruina/Documents/py_project/oversea_low_detection'
         if self.test_flag == 0:
             self.pro_path = '/home/sunruina/oversea_low_detection'
@@ -41,8 +41,7 @@ class SetConfig():
         if self.if_make_lmdb_vocab == 1:
             self.info_v_tm = self.run_start
         else:
-            # self.info_v_tm = '2020_11_02_12_37_37'
-            self.info_v_tm = '2020_11_23_23_02_44'  # ind op add emb
+            self.info_v_tm = '2020_12_03_19_06_15'  # ind op add emb
         self.data_path = './train_data_process/'
 
         self.info_all_path = self.pro_path + '/train_op_tag/op_train_info/20201008/train_infos_20201008.csv'
