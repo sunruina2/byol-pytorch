@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf07ec7c-da01-401a-a0bd-d84e4721032c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/byol_pytorch/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/byol_pytorch/byol_pytorch.py" beforeDir="false" afterPath="$PROJECT_DIR$/examples/lightning/byol_pytorch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/byol_pytorch/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/lightning/byol_pytorch.py" beforeDir="false" afterPath="$PROJECT_DIR$/byol_pytorch/byol_pytorch.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,12 +33,13 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/examples/lightning/train_data_process" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/examples/lightning" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/examples/lightning" />
+      <recent name="$PROJECT_DIR$/examples/lightning/train_data_process" />
     </key>
   </component>
   <component name="RunManager" selected="Python.train_video">
