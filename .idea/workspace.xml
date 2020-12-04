@@ -2,23 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf07ec7c-da01-401a-a0bd-d84e4721032c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/examples/lightning/demos_pics/frame000000.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/lightning/demos_pics/frame000001.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/lightning/demos_pics/frame000002.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/lightning/demos_pics/frame000003.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/lightning/demos_pics/frame000004.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/lightning/demos_pics/frame000005.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/lightning/demos_pics/frame000006.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/lightning/demos_pics/frame000007.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/lightning/demos_pics/frame000008.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/lightning/demos_pics/frame000009.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/examples/lightning/demos_pics/frame000010.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/lightning/lightning_logs/version_0/events.out.tfevents.1606993864.sunruinadeMacBook-Pro.local.16132.0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/lightning/lightning_logs/version_0/hparams.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/lightning/lightning_logs/version_1/events.out.tfevents.1607003733.sunruinadeMacBook-Pro.local.16499.0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/lightning/lightning_logs/version_1/hparams.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/examples/lightning/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/examples/lightning/train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
