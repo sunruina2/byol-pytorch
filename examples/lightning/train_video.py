@@ -38,7 +38,7 @@ class SetConfig():
         self.task_name = 'BYOL_vfirstimg'
         self.run_start = time.strftime('%Y_%m_%d_%H_%M_%S', time.localtime(time.time()))
         self.gpu_N = torch.cuda.device_count()
-        self.gpu_N = 0
+        self.gpu_N = 1
         if self.if_make_lmdb_vocab == 1:
             self.info_v_tm = self.run_start
         else:
