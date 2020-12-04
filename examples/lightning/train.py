@@ -29,7 +29,7 @@ resnet = models.resnet50(pretrained=True)
 BATCH_SIZE = 32
 EPOCHS = 1000
 LR = 3e-4
-NUM_GPUS = 0
+NUM_GPUS = 1
 IMAGE_SIZE = 256
 IMAGE_EXTS = ['.jpg', '.png', '.jpeg']
 NUM_WORKERS = multiprocessing.cpu_count()
