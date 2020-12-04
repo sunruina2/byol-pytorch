@@ -83,7 +83,7 @@ class SetConfig():
         self.if_rgb_cnn_fineturn = 1
         self.epoch_oldctn_N = 0
         self.epoch_save_startN = 0
-        self.batch_size = 8 * self.gpu_N
+        self.batch_size = 64 * self.gpu_N
         self.N_workers = multiprocessing.cpu_count()
         # need_set
 

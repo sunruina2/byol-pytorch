@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="bf07ec7c-da01-401a-a0bd-d84e4721032c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/lightning/train_video.py" beforeDir="false" afterPath="$PROJECT_DIR$/examples/lightning/train_video.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
